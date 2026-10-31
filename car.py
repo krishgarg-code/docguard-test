@@ -23,3 +23,4 @@ class Car:
     def get_speed(self) -> int:
         """Return the current speed."""
         return self.speed
+
