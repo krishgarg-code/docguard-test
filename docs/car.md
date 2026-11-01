@@ -5,7 +5,7 @@ This document specifies the behavior and default settings for the `Car` class in
 
 ## Configuration Constants
 - **Default Speed (`DEFAULT_SPEED`)**: `30` km/h (The initial speed if none is provided).
-- **Maximum Speed (`MAX_SPEED`)**: `150` km/h.
+- **Maximum Speed (`MAX_SPEED`)**: `180` km/h.
 - **Minimum Speed**: `0` km/h.
 
 ## Class: `Car`
