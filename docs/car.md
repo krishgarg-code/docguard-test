@@ -15,7 +15,7 @@ This document specifies the behavior and default settings for the `Car` class in
 - Sets the car's initial speed. Defaults to `30`.
 
 ### Methods
-- `accelerate(amount: int = 10)`: Increases speed by `amount` up to `MAX_SPEED` (`120`).
+- `accelerate(amount: int = 10)`: Increases speed by `amount` up to `MAX_SPEED` (`150`).
 - `brake(amount: int = 10)`: Decreases speed by `amount` down to `0`.
 - `get_speed()`: Returns the current speed of the car.
 
