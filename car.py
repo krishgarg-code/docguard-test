@@ -1,7 +1,7 @@
 """Car simulation module."""
 
 DEFAULT_SPEED = 30
-MAX_SPEED = 180
+MAX_SPEED = 200
 
 
 class Car:
